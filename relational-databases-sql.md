@@ -19,3 +19,17 @@
 ![Lesson 17](./assests/Sql%20lesson%2017.png)
 ![Lesson 18](./assests/Sql%20lesson%2018.png)
 ![Lessons Done](./assests/Done.png)
+
+## Relational Databases
+
+- Structured way to store data in tables.
+- Tables represent entities, rows are instances, and columns are attributes.
+- Data linked through relationships.
+- Ensures data integrity with ACID properties.
+
+## SQL (Structured Query Language)
+
+- Used to interact with relational databases.
+- Standardized language for data manipulation.
+- Queries for retrieving, inserting, updating, and deleting data.
+- Powerful tool for data analysis and management.
