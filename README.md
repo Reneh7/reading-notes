@@ -8,7 +8,8 @@ This web site contains my reading notes for the Java software development course
 |-------------------------------------------|----------------------------------------|
 | First class reading                       | [First class reading](./class1.md)     |
 | Prep: Introduction to SQL                 | [SQL](./relational-databases-sql.md)   |
-| Practice in the Terminal                  | [Terminal](./TerminalPractice.md)
+| Practice in the Terminal                  | [Terminal](./TerminalPractice.md)      |
+| Growth Mindset                            | [Growth Mindset](./GrowthMindset.md)
 
 ## Things I want to know more about
 

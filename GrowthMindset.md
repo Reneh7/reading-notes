@@ -1,0 +1,9 @@
+# Growth Mindset
+
+The key to improving one's technical skills in software development lies in deliberate practice, as highlighted in this read. Deliberate practice involves activities specifically designed to push individuals just outside their comfort zones, providing constant repetition and feedback. It demands mental effort, presents difficult challenges, and requires setting meaningful goals. The traditional day-to-day work may not provide enough opportunities for growth, so it is crucial to seek challenges that truly test our abilities. The best challenges are those that teach us something new, regardless of the final outcome. By embracing deliberate practice, programmers can continuously upgrade their skills, tackle complex problems, and expand their knowledge in multiple fields, ultimately making their software better and opening doors to new opportunities.
+
+Carol Dweck researches “growth mindset” — the idea that we can grow our brain's capacity to learn and to solve problems. In this talk, she describes two ways to think about a problem that’s slightly too hard for you to solve. Are you not smart enough to solve it … or have you just not solved it yet? A great introduction to this influential field.
+
+Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of "grit" as a predictor of success.
+
+Alain de Botton examines our ideas of success and failure -- and questions the assumptions underlying these two judgments. Is success always earned? Is failure? He makes an eloquent, witty case to move beyond snobbery to find true pleasure in our work.
