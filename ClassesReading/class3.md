@@ -2,6 +2,10 @@
 
 ## Explain the difference between an “int” and an “Integer” in Java
 
+In Java, "int" is a primitive data type representing a 32-bit signed integer, used for basic numeric operations. On the other hand, "Integer" is a class that wraps an "int" value and provides additional features through methods making it useful for more complex scenarios but with slightly higher memory usage compared to "int".
+
+## What is the default value for ints? Integers?
+
 The default value for primitive type "int" in Java is 0, while the default value for the Integer class (which is an object) is null.
 
 ## What is autoboxing? Unboxing?
