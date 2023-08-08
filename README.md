@@ -11,6 +11,7 @@ This web site contains my reading notes for the Java software development course
 | Practice in the Terminal                  | [Terminal](./TerminalPractice.md)                     |
 | Growth Mindset                            | [Growth Mindset](./GrowthMindset.md)                  |
 | Second class reading                      | [Second class reading](./ClassesReading/class2.md)    |
+| Third class reading                       | [Third class reading](./ClassesReading/class3.md)
 
 ## Things I want to know more about
 
