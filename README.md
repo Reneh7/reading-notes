@@ -13,6 +13,7 @@ This web site contains my reading notes for the Java software development course
 | Second class reading                      | [Second class reading](./ClassesReading/class2.md)    |
 | Third class reading                       | [Third class reading](./ClassesReading/class3.md)     |
 | Fourth class reading                      | [Fourth class reading](./ClassesReading/class4.md)    |
+| Linked Arrays                             | [Linked Arrays](./ClassesReading/class5.md)           |
 
 ## Things I want to know more about
 
@@ -20,3 +21,4 @@ This web site contains my reading notes for the Java software development course
 - Learn more about Java
 - learn more about constructer
 - iterators
+- Big O
