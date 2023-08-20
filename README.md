@@ -14,6 +14,7 @@ This web site contains my reading notes for the Java software development course
 | Third class reading                       | [Third class reading](./ClassesReading/class3.md)     |
 | Fourth class reading                      | [Fourth class reading](./ClassesReading/class4.md)    |
 | Linked Arrays                             | [Linked Arrays](./ClassesReading/class5.md)           |
+| Sixth class reading                       | [Sixth class reading](./ClassesReading/class6.md)     |
 
 ## Things I want to know more about
 
@@ -22,3 +23,4 @@ This web site contains my reading notes for the Java software development course
 - learn more about constructer
 - iterators
 - Big O
+- Relationships in java
