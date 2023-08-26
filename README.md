@@ -16,6 +16,7 @@ This web site contains my reading notes for the Java software development course
 | Linked Arrays                             | [Linked Arrays](./ClassesReading/class5.md)           |
 | Sixth class reading                       | [Sixth class reading](./ClassesReading/class6.md)     |
 | Eight class reading                       | [Eight class reading](./ClassesReading/class8.md)     |
+| Ninth class reading                       | [Ninth class reading](./ClassesReading/class9.md)     |
 
 ## Things I want to know more about
 
