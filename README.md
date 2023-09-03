@@ -17,7 +17,8 @@ This web site contains my reading notes for the Java software development course
 | Sixth class reading                       | [Sixth class reading](./ClassesReading/class6.md)     |
 | Eight class reading                       | [Eight class reading](./ClassesReading/class8.md)     |
 | Ninth class reading                       | [Ninth class reading](./ClassesReading/class9.md)     |
-| Eleventh class reading                    | [Eleventh class reading](./ClassesReading/class11.md)  |
+| Eleventh class reading                    | [Eleventh class reading](./ClassesReading/class11.md) |
+| Twelfth class reading                     | [Twelfth class reading](./ClassesReading/class12.md)  |
 
 ## Things I want to know more about
 
@@ -28,3 +29,4 @@ This web site contains my reading notes for the Java software development course
 - Big O
 - Relationships in java
 - springBoot
+- hibernate
