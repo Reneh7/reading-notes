@@ -5,20 +5,21 @@ This web site contains my reading notes for the Java software development course
 ## Code 401 - Advanced Software Development
 
 |  Task                                     | Link                                                  |
-|-------------------------------------------|-------------------------------------------------------|
-| First class reading                       | [First class reading](./ClassesReading/class1.md)     |
-| Prep: Introduction to SQL                 | [SQL](./relational-databases-sql.md)                  |
-| Practice in the Terminal                  | [Terminal](./TerminalPractice.md)                     |
-| Growth Mindset                            | [Growth Mindset](./GrowthMindset.md)                  |
-| Second class reading                      | [Second class reading](./ClassesReading/class2.md)    |
-| Third class reading                       | [Third class reading](./ClassesReading/class3.md)     |
-| Fourth class reading                      | [Fourth class reading](./ClassesReading/class4.md)    |
-| Linked Arrays                             | [Linked Arrays](./ClassesReading/class5.md)           |
-| Sixth class reading                       | [Sixth class reading](./ClassesReading/class6.md)     |
-| Eight class reading                       | [Eight class reading](./ClassesReading/class8.md)     |
-| Ninth class reading                       | [Ninth class reading](./ClassesReading/class9.md)     |
-| Eleventh class reading                    | [Eleventh class reading](./ClassesReading/class11.md) |
-| Twelfth class reading                     | [Twelfth class reading](./ClassesReading/class12.md)  |
+|-------------------------------------------|-----------------------------------------------------------|
+| First class reading                       | [First class reading](./ClassesReading/class1.md)         |
+| Prep: Introduction to SQL                 | [SQL](./relational-databases-sql.md)                      |
+| Practice in the Terminal                  | [Terminal](./TerminalPractice.md)                         |
+| Growth Mindset                            | [Growth Mindset](./GrowthMindset.md)                      |
+| Second class reading                      | [Second class reading](./ClassesReading/class2.md)        |
+| Third class reading                       | [Third class reading](./ClassesReading/class3.md)         |
+| Fourth class reading                      | [Fourth class reading](./ClassesReading/class4.md)        |
+| Linked Arrays                             | [Linked Arrays](./ClassesReading/class5.md)               |
+| Sixth class reading                       | [Sixth class reading](./ClassesReading/class6.md)         |
+| Eight class reading                       | [Eight class reading](./ClassesReading/class8.md)         |
+| Ninth class reading                       | [Ninth class reading](./ClassesReading/class9.md)         |
+| Eleventh class reading                    | [Eleventh class reading](./ClassesReading/class11.md)     |
+| Twelfth class reading                     | [Twelfth class reading](./ClassesReading/class12.md)      |
+| Thirteenth class reading                  | [Thirteenth  class reading](./ClassesReading/class13.md)  |
 
 ## Things I want to know more about
 
@@ -30,3 +31,4 @@ This web site contains my reading notes for the Java software development course
 - Relationships in java
 - springBoot
 - hibernate
+- Testing
