@@ -20,6 +20,7 @@ This web site contains my reading notes for the Java software development course
 | Eleventh class reading                    | [Eleventh class reading](./ClassesReading/class11.md)     |
 | Twelfth class reading                     | [Twelfth class reading](./ClassesReading/class12.md)      |
 | Thirteenth class reading                  | [Thirteenth  class reading](./ClassesReading/class13.md)  |
+| Fourteenth class reading                  | [Fourteenth  class reading](./ClassesReading/class14.md)  |
 
 ## Things I want to know more about
 
@@ -32,3 +33,4 @@ This web site contains my reading notes for the Java software development course
 - springBoot
 - hibernate
 - Testing
+- hashing
