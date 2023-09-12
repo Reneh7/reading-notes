@@ -21,6 +21,7 @@ This web site contains my reading notes for the Java software development course
 | Twelfth class reading                     | [Twelfth class reading](./ClassesReading/class12.md)      |
 | Thirteenth class reading                  | [Thirteenth  class reading](./ClassesReading/class13.md)  |
 | Fourteenth class reading                  | [Fourteenth  class reading](./ClassesReading/class14.md)  |
+| Tree Reading                              | [Tree Reading](./ClassesReading/Tree.md)                  |
 
 ## Things I want to know more about
 
@@ -34,3 +35,4 @@ This web site contains my reading notes for the Java software development course
 - hibernate
 - Testing
 - hashing
+- Tree
