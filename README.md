@@ -22,6 +22,7 @@ This web site contains my reading notes for the Java software development course
 | Thirteenth class reading                  | [Thirteenth  class reading](./ClassesReading/class13.md)  |
 | Fourteenth class reading                  | [Fourteenth  class reading](./ClassesReading/class14.md)  |
 | Tree Reading                              | [Tree Reading](./ClassesReading/Tree.md)                  |
+| Class 16 reading                          | [Class 16 reading](./ClassesReading/Tree.md)              |
 
 ## Things I want to know more about
 
