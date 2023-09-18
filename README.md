@@ -23,6 +23,7 @@ This web site contains my reading notes for the Java software development course
 | Fourteenth class reading                  | [Fourteenth  class reading](./ClassesReading/class14.md)  |
 | Tree Reading                              | [Tree Reading](./ClassesReading/Tree.md)                  |
 | Class 16 reading                          | [Class 16 reading](./ClassesReading/class16.md)           |
+| Class 17 reading                          | [Class 17 reading](./ClassesReading/class17.md)           |
 
 ## Things I want to know more about
 
@@ -38,3 +39,4 @@ This web site contains my reading notes for the Java software development course
 - hashing
 - Tree
 - Authrization/Authentication
+- OAuth
