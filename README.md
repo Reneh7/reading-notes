@@ -4,7 +4,7 @@ This web site contains my reading notes for the Java software development course
 
 ## Code 401 - Advanced Software Development
 
-|  Task                                     | Link                                                  |
+|  Task                                     | Link                                                      |
 |-------------------------------------------|-----------------------------------------------------------|
 | First class reading                       | [First class reading](./ClassesReading/class1.md)         |
 | Prep: Introduction to SQL                 | [SQL](./relational-databases-sql.md)                      |
@@ -24,6 +24,7 @@ This web site contains my reading notes for the Java software development course
 | Tree Reading                              | [Tree Reading](./ClassesReading/Tree.md)                  |
 | Class 16 reading                          | [Class 16 reading](./ClassesReading/class16.md)           |
 | Class 17 reading                          | [Class 17 reading](./ClassesReading/class17.md)           |
+| Class 18 reading                          | [Class 18 reading](./ClassesReading/class18.md)           |
 
 ## Things I want to know more about
 
@@ -40,3 +41,4 @@ This web site contains my reading notes for the Java software development course
 - Tree
 - Authrization/Authentication
 - OAuth
+- manyTomany relationships
