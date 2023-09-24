@@ -25,6 +25,7 @@ This web site contains my reading notes for the Java software development course
 | Class 16 reading                          | [Class 16 reading](./ClassesReading/class16.md)           |
 | Class 17 reading                          | [Class 17 reading](./ClassesReading/class17.md)           |
 | Class 18 reading                          | [Class 18 reading](./ClassesReading/class18.md)           |
+| Class 19 reading                          | [Class 19 reading](./ClassesReading/class19.md)           |
 
 ## Things I want to know more about
 
@@ -42,3 +43,4 @@ This web site contains my reading notes for the Java software development course
 - Authrization/Authentication
 - OAuth
 - manyTomany relationships
+- purely functional programming
