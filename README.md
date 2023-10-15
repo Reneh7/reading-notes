@@ -26,6 +26,8 @@ This web site contains my reading notes for the Java software development course
 | Class 17 reading                          | [Class 17 reading](./ClassesReading/class17.md)           |
 | Class 18 reading                          | [Class 18 reading](./ClassesReading/class18.md)           |
 | Class 19 reading                          | [Class 19 reading](./ClassesReading/class19.md)           |
+| Android Class 26                          | [Android Class 26](./ClassesReading/class26.md)           |
+| Android Class 27                          | [Android Class 27](./ClassesReading/class27.md)           |
 
 ## Things I want to know more about
 
@@ -44,3 +46,4 @@ This web site contains my reading notes for the Java software development course
 - OAuth
 - manyTomany relationships
 - purely functional programming
+- Android fundementals
