@@ -28,6 +28,7 @@ This web site contains my reading notes for the Java software development course
 | Class 19 reading                          | [Class 19 reading](./ClassesReading/class19.md)           |
 | Android Class 26                          | [Android Class 26](./ClassesReading/class26.md)           |
 | Android Class 27                          | [Android Class 27](./ClassesReading/class27.md)           |
+| Android Class 28                          | [Android Class 28](./ClassesReading/class28.md)           |
 
 ## Things I want to know more about
 
@@ -47,3 +48,4 @@ This web site contains my reading notes for the Java software development course
 - manyTomany relationships
 - purely functional programming
 - Android fundementals
+- RecyclerView 
