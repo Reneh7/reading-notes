@@ -31,6 +31,7 @@ This web site contains my reading notes for the Java software development course
 | Android Class 28                          | [Android Class 28](./ClassesReading/class28.md)           |
 | Android Class 29                          | [Android Class 29](./ClassesReading/class29.md)           |
 | Android Class 30                          | [Android Class 30](./ClassesReading/class30.md)           |
+| Android Class 31                          | [Android Class 31](./ClassesReading/class31.md)           |
 
 ## Things I want to know more about
 
@@ -54,3 +55,4 @@ This web site contains my reading notes for the Java software development course
 - Room Engine
 - DAO
 - Hash Tables
+- AWS Amplify
