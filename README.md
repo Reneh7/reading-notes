@@ -34,6 +34,7 @@ This web site contains my reading notes for the Java software development course
 | Android Class 31                          | [Android Class 31](./ClassesReading/class31.md)           |
 | Android Class 32                          | [Android Class 32](./ClassesReading/class32.md)           |
 | Android Class 33                          | [Android Class 33](./ClassesReading/class33.md)           |
+| Android Class 34                          | [Android Class 34](./ClassesReading/class34.md)           |
 
 ## Things I want to know more about
 
@@ -60,3 +61,4 @@ This web site contains my reading notes for the Java software development course
 - AWS Amplify
 - GraphQL and DynamoDb
 - Relationships in GraphQL
+- Google Play Deployment
