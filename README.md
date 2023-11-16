@@ -36,7 +36,7 @@ This web site contains my reading notes for the Java software development course
 | Android Class 33                          | [Android Class 33](./ClassesReading/class33.md)           |
 | Android Class 34                          | [Android Class 34](./ClassesReading/class34.md)           |
 | Graphs                                    | [Graphs](./ClassesReading/class35.md)                     |
-
+| Android Class 36                          | [Android Class 34](./ClassesReading/class36.md)           |
 
 ## Things I want to know more about
 
@@ -65,3 +65,4 @@ This web site contains my reading notes for the Java software development course
 - Relationships in GraphQL
 - Google Play Deployment
 - Graphs
+- Amlify
