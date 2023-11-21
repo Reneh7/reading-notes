@@ -38,6 +38,7 @@ This web site contains my reading notes for the Java software development course
 | Graphs                                    | [Graphs](./ClassesReading/class35.md)                     |
 | Android Class 36                          | [Android Class 36](./ClassesReading/class36.md)           |
 | Android Class 37                          | [Android Class 37](./ClassesReading/class37.md)           |
+| Android Class 38                          | [Android Class 38](./ClassesReading/class38.md)           |
 
 ## Things I want to know more about
 
@@ -67,4 +68,5 @@ This web site contains my reading notes for the Java software development course
 - Google Play Deployment
 - Graphs
 - Amlify
--Amazon S3
+- Amazon S3
+- Intent Filters
