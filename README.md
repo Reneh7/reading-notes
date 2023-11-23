@@ -39,6 +39,7 @@ This web site contains my reading notes for the Java software development course
 | Android Class 36                          | [Android Class 36](./ClassesReading/class36.md)           |
 | Android Class 37                          | [Android Class 37](./ClassesReading/class37.md)           |
 | Android Class 38                          | [Android Class 38](./ClassesReading/class38.md)           |
+| Android Class 39                          | [Android Class 39](./ClassesReading/class39.md)           |
 
 ## Things I want to know more about
 
@@ -70,3 +71,4 @@ This web site contains my reading notes for the Java software development course
 - Amlify
 - Amazon S3
 - Intent Filters
+- Location
