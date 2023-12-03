@@ -40,6 +40,8 @@ This web site contains my reading notes for the Java software development course
 | Android Class 37                          | [Android Class 37](./ClassesReading/class37.md)           |
 | Android Class 38                          | [Android Class 38](./ClassesReading/class38.md)           |
 | Android Class 39                          | [Android Class 39](./ClassesReading/class39.md)           |
+| Android Class 41                          | [Android Class 41](./ClassesReading/class41.md)           |
+| Android Class 42                          | [Android Class 42](./ClassesReading/class42.md)           |
 
 ## Things I want to know more about
 
@@ -72,3 +74,5 @@ This web site contains my reading notes for the Java software development course
 - Amazon S3
 - Intent Filters
 - Location
+- Amazon Pinpoint
+- AdMob Ads
